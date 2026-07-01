@@ -50,7 +50,7 @@ I build business software — invoicing, ERPs, bookings, dashboards — for SMBs
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Lexia](https://github.com/R0b3r7DEV/docuai)** | AI-powered document management SaaS — extracts data from invoices, multi-tenant, Stripe billing, white-label | Next.js · TypeScript · Supabase · Claude · Stripe |
+| **[Lexia](https://github.com/R0b3r7DEV/docuai)** ([live demo](https://docuai-one.vercel.app/)) | AI-powered document management SaaS — extracts data from invoices, multi-tenant, Stripe billing, white-label | Next.js · TypeScript · Supabase · Claude · Stripe |
 | **[Trading Bot](https://github.com/R0b3r7DEV/binance-trading-bot)** | Algorithmic trading bot for Binance with honest, out-of-sample strategy validation | Java · Spring Boot · PostgreSQL |
 | **[Centinela](https://github.com/R0b3r7DEV/centinela)** | Authorization-gated agent for non-destructive web security testing | Python · FastAPI · LangGraph · Docker |
 | **[EduAgent AI](https://github.com/R0b3r7DEV/eduagent)** | AI study tutor with RAG over your course materials, connected to Moodle/Classroom | FastAPI · Next.js · pgvector · LangGraph |
