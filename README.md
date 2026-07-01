@@ -1,5 +1,9 @@
 # Hi, I'm Robert 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ionut-robert-fireteanu/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ionfir@alu.edu.gva.es)
+![Open to remote](https://img.shields.io/badge/Open_to-Remote_%26_International-2EA44F?style=flat)
+
 **Full-stack web developer** with a hybrid background in **software + finance**.
 I build business software — invoicing, ERPs, bookings, dashboards — for SMBs and the people who run them.
 
