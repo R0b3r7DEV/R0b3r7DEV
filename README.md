@@ -50,7 +50,7 @@ I build business software — invoicing, ERPs, bookings, dashboards — for SMBs
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Cuentia](https://github.com/R0b3r7DEV/cuentia)** | AI cash-flow & tax copilot for freelancers — bank-file import (CSV / *Norma 43*), AI categorization, **VAT & IRPF** (modelo 130) estimates, forecast & NL chat. Multi-user, unit + integration tests, CI, bilingual. | Symfony · React · PostgreSQL · Claude |
+| **[Cuentia](https://github.com/R0b3r7DEV/cuentia)** ([live demo](https://cuentia-snowy.vercel.app/)) | AI cash-flow & tax copilot for freelancers — bank-file import (CSV / *Norma 43*), AI categorization, **VAT & IRPF** (modelo 130) estimates, forecast & NL chat. Multi-user, unit + integration tests, CI, bilingual. | Symfony · React · PostgreSQL · Claude |
 | **[Lexia](https://github.com/R0b3r7DEV/docuai)** ([live demo](https://docuai-one.vercel.app/)) | AI-powered document management SaaS — extracts data from invoices, multi-tenant, Stripe billing, white-label | Next.js · TypeScript · Supabase · Claude · Stripe |
 | **[Trading Bot](https://github.com/R0b3r7DEV/binance-trading-bot)** | Algorithmic trading bot for Binance with honest, out-of-sample strategy validation | Java · Spring Boot · PostgreSQL |
 | **[Centinela](https://github.com/R0b3r7DEV/centinela)** | Authorization-gated agent for non-destructive web security testing | Python · FastAPI · LangGraph · Docker |
